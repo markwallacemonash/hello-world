@@ -2,3 +2,4 @@
 This is a test for editing and committing
 This hopefully clashes with the branch
 added in branch
+This is added to subbranch
